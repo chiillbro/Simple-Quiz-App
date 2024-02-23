@@ -1,0 +1,2 @@
+- This is a simple Quiz App in which you will see two questions having one correct answer and three wrong answers.
+- Every time user selects correct answer, score increases by 1.
